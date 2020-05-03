@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7905" started-at="2020-05-02T23:59:01Z" finished-at="2020-05-02T23:59:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7905" started-at="2020-05-02T23:59:01Z" finished-at="2020-05-02T23:59:09Z">
+      <class name="hrmtestcases.HomePage">
+        <test-method status="PASS" signature="login()[pri:0, instance:hrmtestcases.HomePage@568bf312]" name="login" duration-ms="7874" started-at="2020-05-02T23:59:01Z" finished-at="2020-05-02T23:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- hrmtestcases.HomePage -->
+      <class name="End2End.OrangeHRM.TestDependancies">
+        <test-method status="PASS" signature="testNg()[pri:0, instance:End2End.OrangeHRM.TestDependancies@ca263c2]" name="testNg" duration-ms="1" started-at="2020-05-02T23:59:09Z" finished-at="2020-05-02T23:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNg -->
+      </class> <!-- End2End.OrangeHRM.TestDependancies -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
