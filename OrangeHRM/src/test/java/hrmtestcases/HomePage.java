@@ -17,8 +17,7 @@ public class HomePage extends base{
 		System.setProperty("webdriver.gecko.driver", "C:\\Users\\hanna\\Downloads\\webdrivers\\geckodriver-v0.26.0-win64\\geckodriver.exe");
 		driver = new FirefoxDriver();	
 		driver.get("https://www.facebook.com/");
-		//driver.get(prop.getProperty("https://www.facebook.com/"));
-		//driver.get("https://aaronunitedco-trials65101.orangehrmlive.com/auth/login");
+		
 		
 	}
 
